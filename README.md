@@ -3,5 +3,5 @@
 
 # To run this application, first clone the repositry
 # CD jokesapi
-# then install the dependencies with npm insatll
+# then install the dependencies with npm install
 # ng serve --open
