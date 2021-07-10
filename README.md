@@ -3,5 +3,5 @@
 
 # To run this application, git clone https://github.com/reggynoble/jokesapi.git
 # CD jokesapi
-# then npm install
+# npm install
 # ng serve --open
