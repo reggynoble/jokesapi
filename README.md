@@ -1,7 +1,7 @@
 # jokesapi
 # An Angular 9/Material UI sample
 
-# To run this application, first clone the repository
+# To run this application, git clone https://github.com/reggynoble/jokesapi.git
 # CD jokesapi
-# then install the dependencies with npm install
+# then npm install
 # ng serve --open
